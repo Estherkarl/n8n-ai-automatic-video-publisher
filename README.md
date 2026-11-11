@@ -100,6 +100,11 @@ The complete production workflow JSON is not publicly distributed.
 
 ## 👩‍💻 Author
 
-**Esther Madianga**
+**Esther Madianga**  
+Freelance Automation Specialist
 
-Freelance Automation Specialist | n8n & AI Automation
+AI Automation | n8n | Business Process Automation | IT Service Management
+
+**ConvergLeads – AI Automation. One Platform. Endless Possibilities.**
+
+---
